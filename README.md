@@ -1,4 +1,5 @@
 # LWiCS-Code
+
 * {
 	font-family: Arial, sans-serif;
 	color:  #5f686b;
