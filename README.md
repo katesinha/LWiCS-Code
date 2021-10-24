@@ -1,6 +1,6 @@
 # LWiCS-Code
 
-* {
+*{
 	font-family: Arial, sans-serif;
 	color:  #5f686b;
 	background-color: rgb(158,221,247);
